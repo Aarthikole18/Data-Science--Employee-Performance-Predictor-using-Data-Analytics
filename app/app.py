@@ -5,7 +5,7 @@ import joblib
 # -----------------------------
 # LOAD MODEL
 # -----------------------------
-model = joblib.load("model/performance_model.pkl")
+model = joblib.load("../model/performance_model.pkl")
 
 # -----------------------------
 # UI TITLE
