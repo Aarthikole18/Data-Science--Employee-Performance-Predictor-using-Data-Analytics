@@ -71,6 +71,9 @@ output 2.png
 * SHAP explainability
 * Cloud deployment
 * Power BI dashboard
+  
+## 🌐 Live Demo
+https://data-science--employee-performance-predictor-using-data-analyt.streamlit.app/
 
 ## 👨‍💻 Author
 
